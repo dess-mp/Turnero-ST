@@ -1,0 +1,9 @@
+html{
+  scroll-behavior: smooth;
+}
+
+body {
+    font-family: system-ui, sans-serif;
+    background: #f5f6fb;
+    padding: 40px;
+}
